@@ -2779,6 +2779,14 @@ dc56d8d227b508c9524de5dbb1a5f657e938df56  minecraft/sounds/mob/warden/sniff_1.og
 386bf5d2e1122eac1b926a87ce533309b8e1a8ac  minecraft/sounds/mob/warden/sniff_2.ogg
 e0f2f371bf22eb5f5c669b246468ccae3301912f  minecraft/sounds/mob/warden/sniff_3.ogg
 08215b7317fc8545fd486dab84a77f62888e7fbe  minecraft/sounds/mob/warden/sniff_4.ogg
+33065517c01840c6f3f975bbad815036adb909e1  minecraft/sounds/mob/warden/sonic_boom1.ogg
+620fe60ed2b8ecbb6302c6de5b6b71f78b2b4bbc  minecraft/sounds/mob/warden/sonic_boom2.ogg
+eb11a0c1acfb81f7a1707645c27c386d0fa10358  minecraft/sounds/mob/warden/sonic_boom3.ogg
+d81b2bacda909660c513db162b81d2d4a4e486dd  minecraft/sounds/mob/warden/sonic_boom4.ogg
+ba5d4ab847c4f12ac8ff5ffb123c418c1553121c  minecraft/sounds/mob/warden/sonic_charge1.ogg
+a86805e61b8249d1c415e06fd06fd7c8641293f5  minecraft/sounds/mob/warden/sonic_charge2.ogg
+713402e6ed8e314696c666c8540034a52fdce333  minecraft/sounds/mob/warden/sonic_charge3.ogg
+5f0bd82694b411010056dc303a76f26229189f57  minecraft/sounds/mob/warden/sonic_charge4.ogg
 c4add1a44e9e94af623c44c9a2193cb3586ced49  minecraft/sounds/mob/warden/step_1.ogg
 20e4e615ef22d60605f624f75f10fdab41f81389  minecraft/sounds/mob/warden/step_2.ogg
 989283b4fc32be9f9372af936087898736522f5e  minecraft/sounds/mob/warden/step_3.ogg
