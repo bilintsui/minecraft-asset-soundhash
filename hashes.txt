@@ -266,7 +266,7 @@ ed9043f9a746eedc538e6df89f8983a2ad9c6205  minecraft/sounds/block/bamboo/step4.og
 4dd03c1c7eb0f61d8b63f7e95e2405928310c0a2  minecraft/sounds/block/bamboo/step5.ogg
 ab411aae137f85c003b99595fe592388ffab7c02  minecraft/sounds/block/bamboo/step6.ogg
 1fff9fe2769f81cbc68d1e4e44b8b69002d31cf6  minecraft/sounds/block/bamboo_wood/break1.ogg
-e6f6b746ca5bae7bac07bc0607c1244417cab846  minecraft/sounds/block/bamboo_wood/break2.ogg
+4231b710979dc406cfd24b5da9f6d50cda6a2823  minecraft/sounds/block/bamboo_wood/break2.ogg
 7ee1ddfd1f42fd5b06d8cbdb9213c72e575b2594  minecraft/sounds/block/bamboo_wood/break3.ogg
 5d8ce0540e1958840cb4d753443f8221d1bdaf1a  minecraft/sounds/block/bamboo_wood/break4.ogg
 51646cd9bdfc091ec589875f1da8786c85ebff79  minecraft/sounds/block/bamboo_wood/break5.ogg
