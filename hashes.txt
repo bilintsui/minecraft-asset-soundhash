@@ -2217,6 +2217,7 @@ ec8a2cbdf68b4e2136098ec33695e1c53625ddb8  minecraft/sounds/records/chirp.ogg
 f46c38e7d6d7b19d5d68aa18b557215738deb36a  minecraft/sounds/records/far.ogg
 83233451430516d839eaee855a2f789b8985d457  minecraft/sounds/records/mall.ogg
 6b44d0539073353b7a05330ccddc5735ba5efca4  minecraft/sounds/records/mellohi.ogg
+9ffb1791e8aba8f266a673abec1846c3bf8fb8cc  minecraft/sounds/records/pigstep.ogg
 2c4f3f8f259dc782867727311fea30875ecc3917  minecraft/sounds/records/stal.ogg
 f34afa3ba5f756e90a1f61023bbe069ee8442608  minecraft/sounds/records/strad.ogg
 876655d1691803f4cef17a6288d971285be79c6a  minecraft/sounds/records/wait.ogg
