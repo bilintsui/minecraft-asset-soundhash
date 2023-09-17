@@ -104,6 +104,12 @@ d37e0050ac3bf4514d4331da5b4fc6b76d40fc47  minecraft/sounds/block/bubble_column/w
 c2367ef1e142e531aa03808236325b5ded5cb184  minecraft/sounds/block/bubble_column/whirlpool_ambient4.ogg
 711db30a0ea786c95247d89a0a34b0043dd16210  minecraft/sounds/block/bubble_column/whirlpool_ambient5.ogg
 3ec63275fffdf755e78cc01fa22d050830034fb8  minecraft/sounds/block/bubble_column/whirlpool_inside.ogg
+5cc75e9e824a6ae798e657282694cc4174bfdd15  minecraft/sounds/block/campfire/crackle1.ogg
+c076377ba38821a3b050ebcf333043cb4cf59b81  minecraft/sounds/block/campfire/crackle2.ogg
+f1a2ede27259b0b2321e36b2d70c2fd63d82e862  minecraft/sounds/block/campfire/crackle3.ogg
+d696e2d6640747987a056319dfd6e15c25e75191  minecraft/sounds/block/campfire/crackle4.ogg
+2b15d255ecf10baa81d8f51df3d2e43c68b52152  minecraft/sounds/block/campfire/crackle5.ogg
+e1e793d3c910f0c270eeb9d590774583451f94f5  minecraft/sounds/block/campfire/crackle6.ogg
 eaa2cfc2ca71f219930cc496d5316853364d3623  minecraft/sounds/block/chest/close2.ogg
 fda6f8d1f1daabad0fd78903cd3c4b366f77a8e5  minecraft/sounds/block/chest/close3.ogg
 a7d0d6f761c9a647cc0273bc016f2772b85f6d88  minecraft/sounds/block/chest/close.ogg
@@ -507,6 +513,11 @@ ebe259bc9b07c4ae6a08471e86dc0e6d8d4d04c2  minecraft/sounds/item/armor/equip_leat
 38044a5747fd72dc26f3c0a37bef44ffa3744078  minecraft/sounds/item/axe/strip2.ogg
 a84dafa90faa56556346437e5f27ad047dc584ea  minecraft/sounds/item/axe/strip3.ogg
 7621881ced7901c92236f386c26cd678aaf9ba49  minecraft/sounds/item/axe/strip4.ogg
+1bd5a33c1b50627d5fd45a44cf78ad6d96f483dd  minecraft/sounds/item/book/close_put1.ogg
+eefec8ea4c0e3a2cf4357226bdcc1b2b7919e8ac  minecraft/sounds/item/book/close_put2.ogg
+234d6a686516c264a370ea834b87d47ae7334ef7  minecraft/sounds/item/book/open_flip1.ogg
+c7d1608c706d75df8f074fd04da027fdbf9ec5c1  minecraft/sounds/item/book/open_flip2.ogg
+95f697cb272bb10a744a5062463a6e737a1c4ec2  minecraft/sounds/item/book/open_flip3.ogg
 d6b740955d317b31644397ff1b2049f6343c862d  minecraft/sounds/item/bottle/empty1.ogg
 09e8b2079bc363d287fe85d5687af142d5fa0f82  minecraft/sounds/item/bottle/empty2.ogg
 4dbe4df94e8c2433b4e046b0493b47db1272b995  minecraft/sounds/item/bottle/fill1.ogg
