@@ -287,6 +287,16 @@ e1e793d3c910f0c270eeb9d590774583451f94f5  minecraft/sounds/block/campfire/crackl
 23af44d4ebfc4bb8245e3fe1906e620daf78367c  minecraft/sounds/block/cauldron/dye1.ogg
 8375496eac88f2ca8e52693d2ce5cb4976539917  minecraft/sounds/block/cauldron/dye2.ogg
 135320552365d45103d97443ad9aa2a13c63a030  minecraft/sounds/block/cauldron/dye3.ogg
+b2a4d2dcfde676caf4e6b3d59848901b2a9441ce  minecraft/sounds/block/chain/break1.ogg
+cc08e21b571415e27b1e70eed6a488f8ba9b3db6  minecraft/sounds/block/chain/break2.ogg
+6bc3dcea8da81eb0c892f7c00c84accbad8ef2f7  minecraft/sounds/block/chain/break3.ogg
+12965f48483c25d58bad1950e55cfcc77eb14364  minecraft/sounds/block/chain/break4.ogg
+057ab504f5f407ecca355b4b79a0e1c1f75060cf  minecraft/sounds/block/chain/step1.ogg
+574374a17842b530c5932bea1f13066aeeb9c382  minecraft/sounds/block/chain/step2.ogg
+da72608522eaea87e6ac5a79d4d2eec8d04eff15  minecraft/sounds/block/chain/step3.ogg
+e3e7e9911e1d24f0225bc565810a58ea81c70f77  minecraft/sounds/block/chain/step4.ogg
+873f73538c8ea67b86f5edf642db8a1c8bbfadd0  minecraft/sounds/block/chain/step5.ogg
+85b43aa402a60adf087632be25d35a4e3c354ca3  minecraft/sounds/block/chain/step6.ogg
 eaa2cfc2ca71f219930cc496d5316853364d3623  minecraft/sounds/block/chest/close2.ogg
 fda6f8d1f1daabad0fd78903cd3c4b366f77a8e5  minecraft/sounds/block/chest/close3.ogg
 a7d0d6f761c9a647cc0273bc016f2772b85f6d88  minecraft/sounds/block/chest/close.ogg
