@@ -90,6 +90,7 @@ f524f055d0caa8764e472ab1bfc822ab8d631177  minecraft/sounds/block/beacon/power1.o
 70404bf7f36e330293abe69d4afa6d615b5a38fe  minecraft/sounds/block/beacon/power3.ogg
 503833660c919c6a48c885b601fc95f66c56db1e  minecraft/sounds/block/bell/bell_use01.ogg
 371dddf142071e187d535c454744c77fde9e1142  minecraft/sounds/block/bell/bell_use02.ogg
+aff8308a03703e5b3ee01c688a0094cfc7127d8a  minecraft/sounds/block/bell/resonate.ogg
 37310577c903e85a9ae6b1393a94b9127a1a4c76  minecraft/sounds/block/blastfurnace/blastfurnace1.ogg
 4d1d157536fd24989860a8adaa615c6d2dba5c9d  minecraft/sounds/block/blastfurnace/blastfurnace2.ogg
 0cc576cae7a4c2e2bb969f545ba09a1d4f746e4f  minecraft/sounds/block/blastfurnace/blastfurnace3.ogg
