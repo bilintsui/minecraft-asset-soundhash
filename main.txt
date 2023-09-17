@@ -1921,10 +1921,10 @@ a8c5f2108c1e81d826ce7701ed64cff319583102  minecraft/sounds/mob/frog/long_jump4.o
 59c5e6354e6693e911641b68d0cbd9bd64bcc9dc  minecraft/sounds/mob/frog/step2.ogg
 415552d5f3fc455cc6611a37619b1d299b2c2bb0  minecraft/sounds/mob/frog/step3.ogg
 207b5670aee2f35605f205bb4223ed8a37eb4db3  minecraft/sounds/mob/frog/step4.ogg
-f6300f170282db3c40d74f4b03f503bc5963378f  minecraft/sounds/mob/frog/tounge1.ogg
-1a24b3a09f84dd9780b01bc10a153cef0275f7c0  minecraft/sounds/mob/frog/tounge2.ogg
-e38ab0f144bedc8d6482be1081550f237c0969e3  minecraft/sounds/mob/frog/tounge3.ogg
-c2252e681a1656cf0e05b381cb3afc90088ec379  minecraft/sounds/mob/frog/tounge4.ogg
+f6300f170282db3c40d74f4b03f503bc5963378f  minecraft/sounds/mob/frog/tongue1.ogg
+1a24b3a09f84dd9780b01bc10a153cef0275f7c0  minecraft/sounds/mob/frog/tongue2.ogg
+e38ab0f144bedc8d6482be1081550f237c0969e3  minecraft/sounds/mob/frog/tongue3.ogg
+c2252e681a1656cf0e05b381cb3afc90088ec379  minecraft/sounds/mob/frog/tongue4.ogg
 99cd73dda425ee03836c2274a0fcf331139773dc  minecraft/sounds/mob/ghast/affectionate_scream.ogg
 6f1d403f47725af0f4c42a74cfec00ff59153160  minecraft/sounds/mob/ghast/charge.ogg
 725e5179c72444c6d885e39c27e6b31ed83d58bc  minecraft/sounds/mob/ghast/death.ogg
