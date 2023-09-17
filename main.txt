@@ -878,10 +878,6 @@ b560dd945d5b34948ef5fa75e7b1ecfc1afaf18a  minecraft/sounds/mob/fox/aggro4.ogg
 fa6a70a21f9f9bbb569694241fa6152f7a3c166c  minecraft/sounds/mob/fox/aggro5.ogg
 c2475eceb5ea233d66ac407eae74835b1c178e05  minecraft/sounds/mob/fox/aggro6.ogg
 15949a3df44bf1628d85cec31991355e1e73ec57  minecraft/sounds/mob/fox/aggro7.ogg
-f2723fac7572a1b5b36531fa55947a500b3f56f5  minecraft/sounds/mob/fox/bark1.ogg
-7daefe2c4ccb793791fde20d51997ccd954af5a0  minecraft/sounds/mob/fox/bark2.ogg
-ad931f657e9bac3544cce94918956a5c88315d71  minecraft/sounds/mob/fox/bark3.ogg
-44500fd8d6ab440580c550db5cc245461f998da7  minecraft/sounds/mob/fox/bark4.ogg
 368316d53d5060e3bc230342905cd880fc7e570e  minecraft/sounds/mob/fox/bite1.ogg
 6ad055ff72b07fe6764c259b7cbd10287687638e  minecraft/sounds/mob/fox/bite2.ogg
 6021b099c2fa05c9c44b4edc12862fac5867c54b  minecraft/sounds/mob/fox/bite3.ogg
@@ -900,6 +896,10 @@ aaea02b509aae02a380a2e90dd8a6c66b0bccb25  minecraft/sounds/mob/fox/hurt4.ogg
 91fd124f052a3866876408dca9a3e75aca9fcf1f  minecraft/sounds/mob/fox/idle4.ogg
 e5cd2ef51a9f6398f46d85564735363dcf2df935  minecraft/sounds/mob/fox/idle5.ogg
 b2a1a1282d0a527b33aa11018822006bbf702b25  minecraft/sounds/mob/fox/idle6.ogg
+f2723fac7572a1b5b36531fa55947a500b3f56f5  minecraft/sounds/mob/fox/screech1.ogg
+7daefe2c4ccb793791fde20d51997ccd954af5a0  minecraft/sounds/mob/fox/screech2.ogg
+ad931f657e9bac3544cce94918956a5c88315d71  minecraft/sounds/mob/fox/screech3.ogg
+44500fd8d6ab440580c550db5cc245461f998da7  minecraft/sounds/mob/fox/screech4.ogg
 19ba043db0954941955f7132ccd67d5b777c226b  minecraft/sounds/mob/fox/sleep1.ogg
 9e743fd55eb8fee778514e9882ef303d714550d6  minecraft/sounds/mob/fox/sleep2.ogg
 b2925156f26131f9e762951360d066284caf5a5a  minecraft/sounds/mob/fox/sleep3.ogg
@@ -1102,6 +1102,15 @@ a63fd7965328425a0a8111640de19428d841933e  minecraft/sounds/mob/magmacube/big4.og
 65a1a69845133187d6b8689e6ce9707da10f21a6  minecraft/sounds/mob/magmacube/small3.ogg
 a485082ed0820eeeb9df13f84f26b14744ceeb2a  minecraft/sounds/mob/magmacube/small4.ogg
 560dd97e6da8badbc8ac00b28c45312e60a525f2  minecraft/sounds/mob/magmacube/small5.ogg
+2dea3fdfdfc69bdc96372979bcc14e40e73515f7  minecraft/sounds/mob/mooshroom/convert1.ogg
+a98df98b23a86e463a70d7539cc49b80b5b514b0  minecraft/sounds/mob/mooshroom/convert2.ogg
+0c020c5e6a49609c4585654e92b3cfed07558507  minecraft/sounds/mob/mooshroom/eat1.ogg
+f0c2628e37f3553d63a93533750006f7feab09f0  minecraft/sounds/mob/mooshroom/eat2.ogg
+eac71e547a1b5fc95f6d3580abfb4d31d3c8403d  minecraft/sounds/mob/mooshroom/eat3.ogg
+0fa871fe4d9701a27e2de2921d58ff5afa86592c  minecraft/sounds/mob/mooshroom/eat4.ogg
+f5daded7e927f4f0b2ae843140abbf85553be259  minecraft/sounds/mob/mooshroom/milk1.ogg
+fcaad5c2e8299050a38d26b4d1fc6fb7d16d843f  minecraft/sounds/mob/mooshroom/milk2.ogg
+ea4171ae5761ec875a877f95aa1968e6c47f42fa  minecraft/sounds/mob/mooshroom/milk3.ogg
 6ed4b69733857421ebc58a377e334ff8ca7a7025  minecraft/sounds/mob/panda/aggressive/aggressive1.ogg
 b3bde9043d937f84bdf9a1f48ee4d64c1b436858  minecraft/sounds/mob/panda/aggressive/aggressive2.ogg
 1ab7f687e28ed6e608cf547a6285b194114ddc70  minecraft/sounds/mob/panda/aggressive/aggressive3.ogg
