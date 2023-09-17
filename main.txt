@@ -85,6 +85,8 @@ ab411aae137f85c003b99595fe592388ffab7c02  minecraft/sounds/block/bamboo/step6.og
 f524f055d0caa8764e472ab1bfc822ab8d631177  minecraft/sounds/block/beacon/power1.ogg
 99462b03d2b63e37a0e737e6053c883b41c953a6  minecraft/sounds/block/beacon/power2.ogg
 70404bf7f36e330293abe69d4afa6d615b5a38fe  minecraft/sounds/block/beacon/power3.ogg
+503833660c919c6a48c885b601fc95f66c56db1e  minecraft/sounds/block/bell/bell_use01.ogg
+371dddf142071e187d535c454744c77fde9e1142  minecraft/sounds/block/bell/bell_use02.ogg
 b91c8cf157979540e517895beefe0390acac6454  minecraft/sounds/block/brewing_stand/brew1.ogg
 030a3d36cccac21197db2ec078f96cbc2caa1311  minecraft/sounds/block/brewing_stand/brew2.ogg
 7c6d3020a1a11e34e722cc7e5283de54ca8cae19  minecraft/sounds/block/bubble_column/bubble1.ogg
@@ -452,6 +454,10 @@ d4f9f7adb9789781a3a0ca1a94262a474cbee1db  minecraft/sounds/entity/witch/hurt1.og
 455016d86e1ace53fc732190416dccca8cad40fa  minecraft/sounds/entity/witch/throw1.ogg
 b81ffdb8b4932bdc9f0692423d426b8f2334da6c  minecraft/sounds/entity/witch/throw2.ogg
 c07715ed9a7c41e554f30c86ab2e6818b4d4a6c8  minecraft/sounds/entity/witch/throw3.ogg
+b137be2a065c6009f0bdce78f4e0861d3060d5d0  minecraft/sounds/event/raid/raidhorn_01.ogg
+0dd9e291f62759f032b893ef5e7b0c22d3345c14  minecraft/sounds/event/raid/raidhorn_02.ogg
+db376f1466e6dc43054fa1e4fa797f87df9290c8  minecraft/sounds/event/raid/raidhorn_03.ogg
+d75da0e9ae674c403866979d9957988fd8b09b06  minecraft/sounds/event/raid/raidhorn_04.ogg
 d9d7511e8944da0c7ab4ed2d3e3d964f98dd6997  minecraft/sounds/fireworks/blast1.ogg
 cd9062e9e81f7cd35164a99669e5db32891a5cb5  minecraft/sounds/fireworks/blast_far1.ogg
 ef59205829f09ac4855c614a0e7046db820df18b  minecraft/sounds/fireworks/largeblast1.ogg
