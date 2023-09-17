@@ -2740,6 +2740,7 @@ b48407c98f814ce43fe725fc7e2cd568d3d8126a  minecraft/sounds/mob/warden/angry_5.og
 66f353305623a0d37fcfdbaa9fa4436956073b73  minecraft/sounds/mob/warden/attack_impact_2.ogg
 d9ea39de28aad01b7c542fd1093e35dabbefa824  minecraft/sounds/mob/warden/death_1.ogg
 ad98c472dafa5b154655754eb985a5ad8a6a18ca  minecraft/sounds/mob/warden/death_2.ogg
+3e6a620baed2169bf04b2dc8870afd4890875093  minecraft/sounds/mob/warden/dig.ogg
 207b29e3b5a3b6d169000a12dc9b4e1c5c06133d  minecraft/sounds/mob/warden/emerge.ogg
 89a85341d5ba385c95deed06cc89ee4bc2588273  minecraft/sounds/mob/warden/heartbeat_1.ogg
 8f302a31d11dc0e23d574dba438b36d1732c5c84  minecraft/sounds/mob/warden/heartbeat_2.ogg
