@@ -1612,6 +1612,7 @@ b49dc4e569d0b42b556b0ee1f583dd80e79ff589  minecraft/sounds/mob/allay/item_given1
 a8074767947b8b8cd249c1885afe3d5be1add620  minecraft/sounds/mob/allay/item_taken2.ogg
 3405089c1014712cdc9d3323d10ad151f9210e06  minecraft/sounds/mob/allay/item_taken3.ogg
 cbb9ffe395bd56814f61bbb44ac196f364005e33  minecraft/sounds/mob/allay/item_taken4.ogg
+e56a9f248acfc53fd12e64a9d54ef14f2a7de5fb  minecraft/sounds/mob/allay/item_thrown1.ogg
 16ea969a1db6ae466df28025bee90d704d81e969  minecraft/sounds/mob/axolotl/attack1.ogg
 ff6de6ba71b05e968b6c4f75c29bedc349d4a442  minecraft/sounds/mob/axolotl/attack2.ogg
 273bea0342e06591b3e2681f737571f1e002207a  minecraft/sounds/mob/axolotl/attack3.ogg
@@ -2902,6 +2903,7 @@ c76dea473821e2ae9a1f006a4eddfdd0703eecdf  minecraft/sounds/mob/zombified_piglin/
 40b8e244d03ae17483edd4571bd851e10a97050f  minecraft/sounds/mob/zombified_piglin/zpigdeath.ogg
 a2cfbea288280419ec0c8fb75d8ee5395536ac02  minecraft/sounds/mob/zombified_piglin/zpighurt1.ogg
 d1917b9be91d60a40dd0bf804580c1f494e9ae6d  minecraft/sounds/mob/zombified_piglin/zpighurt2.ogg
+868c7a7c4d9358d631fa2f9abfc6bbf05d88292d  minecraft/sounds/music/game/ancestry.ogg
 fb47d8c0ba3756e2c5066fcd865e866fa209ae2d  minecraft/sounds/music/game/an_ordinary_day.ogg
 50a59a4f56e4046701b758ddbb1c1587efa4cadf  minecraft/sounds/music/game/calm1.ogg
 74da65c99aa578486efa7b69983d3533e14c0d6e  minecraft/sounds/music/game/calm2.ogg
@@ -2937,6 +2939,9 @@ cc1a80b6becfc6d6489c069f053d0a8adc71c339  minecraft/sounds/music/game/nuance1.og
 98a918eb2694defd19726436d4b9dca9e7dd6a65  minecraft/sounds/music/game/piano2.ogg
 9528b6a76e7bac64ca1145cc682e8a8448cc04e5  minecraft/sounds/music/game/piano3.ogg
 5b3ae419f7f7648568f0b5303594078aea12f598  minecraft/sounds/music/game/stand_tall.ogg
+6615ab7f668384cf98b0cb034ce8e4c52eaf86b2  minecraft/sounds/music/game/swamp/aerie.ogg
+352bc5b46e08effbb8d92298b601e688cc36c4de  minecraft/sounds/music/game/swamp/firebugs.ogg
+b83bbafa9799680da24f10215de2c40b73ce1fe3  minecraft/sounds/music/game/swamp/labyrinthine.ogg
 ee92e4ed79b3c4c47eabe71b36375b5d3f05b017  minecraft/sounds/music/game/water/axolotl.ogg
 6be4491a5d1a5f0dd68fb36c310ecfe3501cafe1  minecraft/sounds/music/game/water/dragon_fish.ogg
 fd8db6a4ceb400e6abafb2a6b3ac53d871910b42  minecraft/sounds/music/game/water/shuniji.ogg
@@ -3003,6 +3008,7 @@ e9833a1512b57bcf88ac4fdcc8df4e5a7e9d701d  minecraft/sounds/random/orb.ogg
 22a491f266f5c3cdd6e669a9493daaf40c9c8575  minecraft/sounds/random/splash.ogg
 e9833a1512b57bcf88ac4fdcc8df4e5a7e9d701d  minecraft/sounds/random/successful_hit.ogg
 b210a3c371441b77fe873133b2cb7b63e367b2f3  minecraft/sounds/random/wood_click.ogg
+ef72603358a5f2a717cf0b718af677025f9d3c79  minecraft/sounds/records/5.ogg
 f86c466225dad2f32c90981485c1965671b3e8e6  minecraft/sounds/records/11.ogg
 9cbed0e40296f68c61090c9b81816061e068a0ec  minecraft/sounds/records/13.ogg
 9b2a01e0d0456b8fbe33557fbc19d4fe342f94d6  minecraft/sounds/records/blocks.ogg
