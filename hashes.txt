@@ -164,6 +164,10 @@ edb8625e330ee1ee8ceeb2540cd083360e9daf65  minecraft/sounds/block/iron_trapdoor/o
 e73b083393fa29357e85f8b535751e14853cf7b5  minecraft/sounds/block/iron_trapdoor/open4.ogg
 e528a3ccb3b90e3a2eb075b69a3663635b05d1d6  minecraft/sounds/block/pumpkin/carve1.ogg
 1997fd410166b4e52ede02d23fb8947306f8630d  minecraft/sounds/block/pumpkin/carve2.ogg
+e54f93b413612f82ac995c4d3be9d4a0be0b86b8  minecraft/sounds/block/scaffold/place1.ogg
+fbc96020d3410733cd97cbfa99ed8471ace343ef  minecraft/sounds/block/scaffold/place2.ogg
+e13cd6eaea8057ab3c7b637af4c58a2165d84c42  minecraft/sounds/block/scaffold/place3.ogg
+1b33ca18f1e7d8e9427ab9bd7246bb1ff58812a7  minecraft/sounds/block/scaffold/place4.ogg
 d673dd1dae8c1dc80b53917cf454a52386256132  minecraft/sounds/block/shulker_box/close.ogg
 0fadce9827b247d2da715d8e5a8213db83fbe44f  minecraft/sounds/block/shulker_box/open.ogg
 a8d5525b3304a47c138579e46c5dc525bba193dd  minecraft/sounds/block/waterlily/place1.ogg
@@ -1531,6 +1535,13 @@ bd1750c016f6bab40934eff0b0fb64c41c86e44b  minecraft/sounds/step/sand2.ogg
 ab07279288fa49215bada5c17627e6a54ad0437c  minecraft/sounds/step/sand3.ogg
 a474236fb0c75bd65a6010e87dbc000d345fc185  minecraft/sounds/step/sand4.ogg
 9fd6d2c633d276b952f2ff2aaa1fa7e5fb5efd2a  minecraft/sounds/step/sand5.ogg
+8d3d6a13305ec2aa63065b8fd72953e0fbc06348  minecraft/sounds/step/scaffold1.ogg
+fee15c18c2a51afebbc2c7579437525f5d0fdbb1  minecraft/sounds/step/scaffold2.ogg
+fc1cc25f6808340610f2556745662bb16d426327  minecraft/sounds/step/scaffold3.ogg
+aa83c9d0c1198899f9e8dc3fa45c8d27760d2310  minecraft/sounds/step/scaffold4.ogg
+773b5282fa8c170f6966f3d7330d6c000e43e293  minecraft/sounds/step/scaffold5.ogg
+e376c227976d305aaa1ede9ad04ff02c4325f03f  minecraft/sounds/step/scaffold6.ogg
+6c4603afe9498f3d5f25b01f3f28807b3184fa83  minecraft/sounds/step/scaffold7.ogg
 e9bab7d3d15541f0aaa93fad31ad37fd07e03a6c  minecraft/sounds/step/snow1.ogg
 5887d10234c4f244ec5468080412f3e6ef9522f3  minecraft/sounds/step/snow2.ogg
 a4bc069321a96236fde04a3820664cc23b2ea619  minecraft/sounds/step/snow3.ogg
