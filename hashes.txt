@@ -510,6 +510,7 @@ e65b9794e249ffe93ba2ec75cd0c994697773073  minecraft/sounds/entity/witch/ambient2
 b8e9d0b643fd331dcbeea8114d3ad59d96f4bc59  minecraft/sounds/entity/witch/ambient3.ogg
 108529f98cbc67491b119ac6bec3f4af1ca3f1b0  minecraft/sounds/entity/witch/ambient4.ogg
 c9b2193339b42279d874cebb4afe3761c1425bfa  minecraft/sounds/entity/witch/ambient5.ogg
+3c9beded731ff074a4243c5c22710c66bf4aca8b  minecraft/sounds/entity/witch/celebrate.ogg
 627c939e2aa48a5e3f516848e66a76acb992c2a8  minecraft/sounds/entity/witch/death1.ogg
 b5e67bcc0f5af24fa6d01f377215143ee7a1cf67  minecraft/sounds/entity/witch/death2.ogg
 4c02a13757318403e7837260c1b30069dcb7be69  minecraft/sounds/entity/witch/death3.ogg
@@ -874,6 +875,7 @@ bcc73584d83225383aaa6affce905392c96afe86  minecraft/sounds/mob/endermen/scream4.
 5738d7f49ef30adcfc4f2ab13e0b1d74f09a1289  minecraft/sounds/mob/endermen/stare.ogg
 54d3edb3a90389d75f69987bfc678cabc4c87e26  minecraft/sounds/mob/evocation_illager/cast1.ogg
 b273df5c1e0271b2d8b0c65720490f26cc2a7215  minecraft/sounds/mob/evocation_illager/cast2.ogg
+681e7130a2477bb8310b72284398697d249ac78f  minecraft/sounds/mob/evocation_illager/celebrate.ogg
 1f7d377e9b4eae36f14a789c617a002672f12d4a  minecraft/sounds/mob/evocation_illager/death1.ogg
 60f96185109232213115f5d872bb255e8c7a0c81  minecraft/sounds/mob/evocation_illager/death2.ogg
 af4b651a46f231b85a168250139279bc40f61d21  minecraft/sounds/mob/evocation_illager/fangs.ogg
@@ -1245,8 +1247,13 @@ a69a66bfda52a42ea8cf712eb1caa8830046c14f  minecraft/sounds/mob/pig/step2.ogg
 6226903c5dfd8ac388f9d64a5fa9968680ed3507  minecraft/sounds/mob/pig/step3.ogg
 f5e1ba4ac271b4c2feee86a4d04e32279ea99c10  minecraft/sounds/mob/pig/step4.ogg
 56d6fd65958fb25bf9b4033a87655b591e222005  minecraft/sounds/mob/pig/step5.ogg
+54c0df99cb6b487e3dc0b73bc5574c31869d844b  minecraft/sounds/mob/pillager/celebrate1.ogg
+daa06994b2e42f2264fe061e82eb6c1d5ed8b696  minecraft/sounds/mob/pillager/celebrate2.ogg
+54f9f134ba3101bd8e3f53d8a5039e03236687cb  minecraft/sounds/mob/pillager/celebrate3.ogg
+f2f7f61ccd20a66297fb416c9c4c7eb7f5973463  minecraft/sounds/mob/pillager/celebrate4.ogg
 12365c224970df985cce386bbcaeb357b4b85496  minecraft/sounds/mob/pillager/death1.ogg
 b440f29191234eb91f36354bbf43d62dcba0973e  minecraft/sounds/mob/pillager/death2.ogg
+fdbe02db2e30b07038007ae0d344bb40008b0f9e  minecraft/sounds/mob/pillager/horn_celebrate.ogg
 3f2e8691d05ab35ba956159e76ad89b267bb9a9f  minecraft/sounds/mob/pillager/hurt1.ogg
 977e87e9f30b5b4b35d7a8fc7355a1d891f7c2c8  minecraft/sounds/mob/pillager/hurt2.ogg
 dcfac8650527f90c0ea202504497436b716ae37a  minecraft/sounds/mob/pillager/hurt3.ogg
@@ -1292,6 +1299,8 @@ f226beeaf9c566c377e7dac03c8e748ac34b5f99  minecraft/sounds/mob/rabbit/idle4.ogg
 5d4fe362c17d084874084c64e9023c346da1c3f7  minecraft/sounds/mob/ravager/bite1.ogg
 de9731fda83623d10c76d760a52b8159eae65dd0  minecraft/sounds/mob/ravager/bite2.ogg
 7df3f4cabae8ab988f5df49ad2836c9ba6ab79c2  minecraft/sounds/mob/ravager/bite3.ogg
+82dacd056c4c2a019432c9d70f6d1d64fcbaf644  minecraft/sounds/mob/ravager/celebrate1.ogg
+e6b78aded9ad876dae8e856c37e8244aeb549c61  minecraft/sounds/mob/ravager/celebrate2.ogg
 78183ddf604932321529eead4266f5d1607e1e03  minecraft/sounds/mob/ravager/death1.ogg
 608bf241c72812309ce6a97d406dbaa82308b1b3  minecraft/sounds/mob/ravager/death2.ogg
 d84952f93aa55b9e79a69e3377a3322a6f3a7e04  minecraft/sounds/mob/ravager/death3.ogg
@@ -1460,6 +1469,8 @@ f224168e178eca861af133c78209b662c4d1e452  minecraft/sounds/mob/villager/no2.ogg
 be73a79fb1ab966887a8b88bed9aa6b3d9173d71  minecraft/sounds/mob/villager/yes1.ogg
 32317250b0c0ee18ed1e0c4ae3364fa796433b0a  minecraft/sounds/mob/villager/yes2.ogg
 893e37d8d608cccd9c2404e785597c6a7c5f3593  minecraft/sounds/mob/villager/yes3.ogg
+2dea72908470f559ba7cb98b7d98ebe2889e7577  minecraft/sounds/mob/vindication_illager/celebrate1.ogg
+31eb56075dce04558f7a5c26477cfa7cb56ec3f1  minecraft/sounds/mob/vindication_illager/celebrate2.ogg
 925654a26dd71aca3ab1bbf4373815a9bf128b47  minecraft/sounds/mob/vindication_illager/death1.ogg
 2df2e501b08129614ebf5e42dcca20b8fc809192  minecraft/sounds/mob/vindication_illager/death2.ogg
 b28d52e4ac00b71576a78bdbad0f773ec8756b66  minecraft/sounds/mob/vindication_illager/hurt1.ogg
