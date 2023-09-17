@@ -1325,6 +1325,15 @@ ea62cea6f5c10ecd63e27fc46591931ecd8e1c30  minecraft/sounds/item/bucket/fill_fish
 99125d80da85a6055d5757fe9194bee680ac9a63  minecraft/sounds/item/bucket/fill_lava3.ogg
 bfdeec56755e5c566fa045a678d3fd1c062065f3  minecraft/sounds/item/bucket/fill_powder_snow1.ogg
 fba31761b635d23b80a9c48c1bfc5556f7441679  minecraft/sounds/item/bucket/fill_powder_snow2.ogg
+babd09368ea2958cab6847e38cda13c115b3d014  minecraft/sounds/item/bundle/drop_contents1.ogg
+3cab25ea3eaa1b92fe6ccbc6691b41a911819ffe  minecraft/sounds/item/bundle/drop_contents2.ogg
+aef0f1e4974e77bcb0b17fb0a71e6aedb56f6b2e  minecraft/sounds/item/bundle/drop_contents3.ogg
+13067cc3d724d3e2d454de39d2b9a038ca87f985  minecraft/sounds/item/bundle/insert1.ogg
+f3df51414c25d7f0416dff5b5f628fee5ecbd22f  minecraft/sounds/item/bundle/insert2.ogg
+e5d5aaf75d0f8907647a65435f051e915297b723  minecraft/sounds/item/bundle/insert3.ogg
+5d47ae5d6827caf228d77f407ab143d107896c65  minecraft/sounds/item/bundle/remove_one1.ogg
+f4b4482e93bfa7307605e6d5a8d051c12542bffe  minecraft/sounds/item/bundle/remove_one2.ogg
+dedf18f87e8363fce1854e07b01a19715ae8c155  minecraft/sounds/item/bundle/remove_one3.ogg
 be598d7be5708eb1952d03680d0f2ee0dd70bd78  minecraft/sounds/item/crossbow/loading_end.ogg
 2f1f5a923c19c6864b3a63f2310b24586eafa7a5  minecraft/sounds/item/crossbow/loading_middle1.ogg
 69cdea68f659610aab9889282a6e199308ae4e3a  minecraft/sounds/item/crossbow/loading_middle2.ogg
