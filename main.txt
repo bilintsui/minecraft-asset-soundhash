@@ -3215,6 +3215,8 @@ a2cfbea288280419ec0c8fb75d8ee5395536ac02  minecraft/sounds/mob/zombified_piglin/
 d1917b9be91d60a40dd0bf804580c1f494e9ae6d  minecraft/sounds/mob/zombified_piglin/zpighurt2.ogg
 868c7a7c4d9358d631fa2f9abfc6bbf05d88292d  minecraft/sounds/music/game/ancestry.ogg
 fb47d8c0ba3756e2c5066fcd865e866fa209ae2d  minecraft/sounds/music/game/an_ordinary_day.ogg
+c1c3b7233b080ffc17389af8b68a46b2df798ef1  minecraft/sounds/music/game/a_familiar_room.ogg
+62171ee4d5ed33a224c59f985a6b304860523b17  minecraft/sounds/music/game/bromeliad.ogg
 50a59a4f56e4046701b758ddbb1c1587efa4cadf  minecraft/sounds/music/game/calm1.ogg
 74da65c99aa578486efa7b69983d3533e14c0d6e  minecraft/sounds/music/game/calm2.ogg
 14ae57a6bce3d4254daa8be2b098c2d99743cc3f  minecraft/sounds/music/game/calm3.ogg
@@ -3225,6 +3227,8 @@ cab779f1a15d9fe49bcc975d077717ebd1f87cda  minecraft/sounds/music/game/comforting
 4664de25eb2bfc88ebbd638cfae6934dd968ceaa  minecraft/sounds/music/game/creative/creative4.ogg
 45cb6cbbff2d7fc1daefbd85b031fd9dcfc70e7b  minecraft/sounds/music/game/creative/creative5.ogg
 6254527d626a2c7d80901cc2e62dce3ba4bd81f6  minecraft/sounds/music/game/creative/creative6.ogg
+a0ad97718ec427d5651ef602331ebda9c91bc906  minecraft/sounds/music/game/crescent_dunes.ogg
+a40303dd9d4bfbb0986e66fc93553a0755621880  minecraft/sounds/music/game/echo_in_the_wind.ogg
 b9eef13c2337a6335c4523858619ca560dff4496  minecraft/sounds/music/game/end/boss.ogg
 27fcacc68bb77f01b23ea9c9d36d9018f8509cdf  minecraft/sounds/music/game/end/credits.ogg
 47800737d078e751698df291054adc596ba8195a  minecraft/sounds/music/game/end/end.ogg
@@ -3329,6 +3333,7 @@ f46c38e7d6d7b19d5d68aa18b557215738deb36a  minecraft/sounds/records/far.ogg
 6b44d0539073353b7a05330ccddc5735ba5efca4  minecraft/sounds/records/mellohi.ogg
 a5effd79795773422bb4de85841838f3ad9c216d  minecraft/sounds/records/otherside.ogg
 9ffb1791e8aba8f266a673abec1846c3bf8fb8cc  minecraft/sounds/records/pigstep.ogg
+f6c8af3b270a609b12eddd4a56fe2139662782e8  minecraft/sounds/records/relic.ogg
 2c4f3f8f259dc782867727311fea30875ecc3917  minecraft/sounds/records/stal.ogg
 f34afa3ba5f756e90a1f61023bbe069ee8442608  minecraft/sounds/records/strad.ogg
 876655d1691803f4cef17a6288d971285be79c6a  minecraft/sounds/records/wait.ogg
