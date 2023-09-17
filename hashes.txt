@@ -1635,6 +1635,8 @@ f1c9fec519bfb3a4943103c7335c65a51fa86a51  minecraft/sounds/ui/loom/select_patter
 a94c53b074fb686c99aa80612cbbf1f82b3db993  minecraft/sounds/ui/loom/select_pattern5.ogg
 2f13d6eecbaa35c81d5ddd94a7d5a9c6478a7e27  minecraft/sounds/ui/loom/take_result1.ogg
 9cfe4eb22eacb882f21d6bf63afeb51c2825c7fa  minecraft/sounds/ui/loom/take_result2.ogg
+f9c33914acfd606ea5c624f25d33cccc60663e22  minecraft/sounds/ui/stonecutter/cut1.ogg
+34eec70d1a60aba94b92065274fd456a97b1e036  minecraft/sounds/ui/stonecutter/cut2.ogg
 210c839d6fab655373b3a5e4c278f59dff4936d8  minecraft/sounds/ui/toast/challenge_complete.ogg
 1bdb9e214a7833b794b1b4b97796d9f9af12bca5  minecraft/sounds/ui/toast/in.ogg
 167a4f93c12d2d03d9ce266b8cb67065281bd218  minecraft/sounds/ui/toast/out.ogg
