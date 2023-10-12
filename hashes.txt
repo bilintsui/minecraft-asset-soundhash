@@ -575,6 +575,15 @@ ce467337da42a96332befcdf961e2981e1c61682  minecraft/sounds/block/copper/step4.og
 98fe2b2b0c6bcc3f921c1ae8ec0686b719569e70  minecraft/sounds/block/decorated_pot/break2.ogg
 1e37a7e44e34d5a0e338c2d57424eaab4ba8eb46  minecraft/sounds/block/decorated_pot/break3.ogg
 af6b7387f6d3140d630060c8efe5d25493d9e69c  minecraft/sounds/block/decorated_pot/break4.ogg
+046116cb8bae23fb9ccd08664bea0ea1e6fa5b8c  minecraft/sounds/block/decorated_pot/insert1.ogg
+8bea2393e701b61d9f2d197b6fe2d64d870ce69f  minecraft/sounds/block/decorated_pot/insert2.ogg
+5df3937b1dc42801133faa7db0777993001a0e6c  minecraft/sounds/block/decorated_pot/insert3.ogg
+12bd95f693faa4c5992bb3fc622d447d5e15cd8b  minecraft/sounds/block/decorated_pot/insert4.ogg
+fdae34c44ad48989b28d90188ea926292e994d68  minecraft/sounds/block/decorated_pot/insert_fail1.ogg
+335dd7a03f2a9e96de2b70a6c437b9d7e478e057  minecraft/sounds/block/decorated_pot/insert_fail2.ogg
+32932435c2ff25af10f51f3900164ba650baf264  minecraft/sounds/block/decorated_pot/insert_fail3.ogg
+c5c6fc4088ca077f78f610ba6818f53b44ac8b18  minecraft/sounds/block/decorated_pot/insert_fail4.ogg
+e6c07deee281fc48ec09ae5b46cc7f4f6025e34f  minecraft/sounds/block/decorated_pot/insert_fail5.ogg
 aab5cf806b0948e7cf0b858fa36385913a2e486f  minecraft/sounds/block/decorated_pot/shatter1.ogg
 21d4ebdf82249ccdcda3f01b23bb783490fe57d7  minecraft/sounds/block/decorated_pot/shatter2.ogg
 7cd3d8225fa509ad313cbf622341b90d0b641e7b  minecraft/sounds/block/decorated_pot/shatter3.ogg
