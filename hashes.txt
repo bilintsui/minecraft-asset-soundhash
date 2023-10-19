@@ -571,6 +571,8 @@ d87ff5f9736c6b86f3445faccfdd20c595eadb32  minecraft/sounds/block/copper/step2.og
 ce467337da42a96332befcdf961e2981e1c61682  minecraft/sounds/block/copper/step4.ogg
 85ac3c677b8cba25063bf0c9575eea4dcd669d8e  minecraft/sounds/block/copper/step5.ogg
 63417f028c4720bd91b1974ef67c93546ac4f3b6  minecraft/sounds/block/copper/step6.ogg
+40a534629cc459cfe6bb104843e92a132c922046  minecraft/sounds/block/crafter/craft.ogg
+606b100c5dc4c965c5714bc6d02a68eda6b3c902  minecraft/sounds/block/crafter/fail.ogg
 5c84f54276722bea66088e2774e0fcd00929ae58  minecraft/sounds/block/decorated_pot/break1.ogg
 98fe2b2b0c6bcc3f921c1ae8ec0686b719569e70  minecraft/sounds/block/decorated_pot/break2.ogg
 1e37a7e44e34d5a0e338c2d57424eaab4ba8eb46  minecraft/sounds/block/decorated_pot/break3.ogg
