@@ -1953,6 +1953,10 @@ f1e592cd54b7c88dcd8d62d0612199be25c2b64d  minecraft/sounds/mob/armadillo/hurt2.o
 fd9548fef82e6ec8e254e46becf76d5d40419757  minecraft/sounds/mob/armadillo/hurt3.ogg
 c9a965f9f2a6db5f68cd46015985e7a2190a74be  minecraft/sounds/mob/armadillo/hurt4.ogg
 7a09d71409eff220fc9d48053e7faa2d315f9de8  minecraft/sounds/mob/armadillo/hurt5.ogg
+4feea37a3f783e2c9ea844ef2b4ee9f3cc20698d  minecraft/sounds/mob/armadillo/hurt_reduced1.ogg
+f29746a1c78de0e7e75adeac1d605c4f0e4da73e  minecraft/sounds/mob/armadillo/hurt_reduced2.ogg
+e8b4ff9971ce75716227605ae62da465a632c5d5  minecraft/sounds/mob/armadillo/hurt_reduced3.ogg
+a4a4553b144aea8b4fa63778cf900b909b1c4d30  minecraft/sounds/mob/armadillo/hurt_reduced4.ogg
 eb187a91ae4ea9efb383b9ee15bc74ce4d5631c1  minecraft/sounds/mob/armadillo/land1.ogg
 b238154dc455d7b96a654d2d88df7a5d9f1f1c5a  minecraft/sounds/mob/armadillo/land2.ogg
 f3e6ddd0a1388cc27a92668bd7501c1b880fcd43  minecraft/sounds/mob/armadillo/land3.ogg
