@@ -1665,6 +1665,9 @@ df97decf9d824c4b47c642bbcc3ac6c230e91bc2  minecraft/sounds/entity/squid/hurt4.og
 653f2c7ac5ae89e3c8a8b1d9a4060c1d3d2be4d3  minecraft/sounds/entity/squid/squirt1.ogg
 c67b28e62650fec5f56132982e88009d513ac513  minecraft/sounds/entity/squid/squirt2.ogg
 09d6455c9e1d581e52fffd390076cb3bcb3bc0d6  minecraft/sounds/entity/squid/squirt3.ogg
+b64e99d3d09d12c97242f1d6336a4aea4c3233ec  minecraft/sounds/entity/wind_charge/wind_burst1.ogg
+c07f8dcd5ec017c90a863a48a52ca2e7b3f0544e  minecraft/sounds/entity/wind_charge/wind_burst2.ogg
+eb0abf982987a1b0f79a06fb45afbe880e275d17  minecraft/sounds/entity/wind_charge/wind_burst3.ogg
 166af5d48f1f67a4608be9d23fd27f8c16269893  minecraft/sounds/entity/witch/ambient1.ogg
 e65b9794e249ffe93ba2ec75cd0c994697773073  minecraft/sounds/entity/witch/ambient2.ogg
 b8e9d0b643fd331dcbeea8114d3ad59d96f4bc59  minecraft/sounds/entity/witch/ambient3.ogg
@@ -1988,6 +1991,7 @@ eb187a91ae4ea9efb383b9ee15bc74ce4d5631c1  minecraft/sounds/mob/armadillo/land1.o
 b238154dc455d7b96a654d2d88df7a5d9f1f1c5a  minecraft/sounds/mob/armadillo/land2.ogg
 f3e6ddd0a1388cc27a92668bd7501c1b880fcd43  minecraft/sounds/mob/armadillo/land3.ogg
 167e7bc7da370415d4a3f40aa6614fca472b71a0  minecraft/sounds/mob/armadillo/land4.ogg
+becaa3fe9df62d21f2dcbd107d1271fd8aab81e8  minecraft/sounds/mob/armadillo/peek.ogg
 56b9f15306b40fe0e6b6eff83a41d38184b27592  minecraft/sounds/mob/armadillo/roll1.ogg
 bc891bcf154019454a9833a328f9a5d3c9f9ac78  minecraft/sounds/mob/armadillo/roll2.ogg
 79081e734887536ff42c30187ee83aa8d7aad176  minecraft/sounds/mob/armadillo/roll3.ogg
@@ -1999,8 +2003,9 @@ ab106a4d5ebb591dd998cd021bd53a446800ff34  minecraft/sounds/mob/armadillo/scute_d
 a1aca3fc5ecde937748c1d701b4f726b03ed4f27  minecraft/sounds/mob/armadillo/step3.ogg
 49fad98686f1972b15ce93d10ff3b71a58758408  minecraft/sounds/mob/armadillo/step4.ogg
 85937b1b39be6a3817a6ebb5e8f6505be7ddfbd7  minecraft/sounds/mob/armadillo/step5.ogg
-0e985cabe00eef63c117bfba48a7ae6552fe4fe0  minecraft/sounds/mob/armadillo/unroll1.ogg
-5bb6ff790e44bd2cedb0929fd040f0b847fbcd14  minecraft/sounds/mob/armadillo/unroll2.ogg
+0e985cabe00eef63c117bfba48a7ae6552fe4fe0  minecraft/sounds/mob/armadillo/unroll_finish1.ogg
+5bb6ff790e44bd2cedb0929fd040f0b847fbcd14  minecraft/sounds/mob/armadillo/unroll_finish2.ogg
+36196e23d75142d74e9907883f7dd3e1002b0166  minecraft/sounds/mob/armadillo/unroll_start.ogg
 16ea969a1db6ae466df28025bee90d704d81e969  minecraft/sounds/mob/axolotl/attack1.ogg
 ff6de6ba71b05e968b6c4f75c29bedc349d4a442  minecraft/sounds/mob/axolotl/attack2.ogg
 273bea0342e06591b3e2681f737571f1e002207a  minecraft/sounds/mob/axolotl/attack3.ogg
