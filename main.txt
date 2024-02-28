@@ -1700,6 +1700,15 @@ b1715242916d56140486c612056ea4d6dd5a4404  minecraft/sounds/fireworks/launch1.ogg
 c8053e3b083b08840276de9a728202551302f416  minecraft/sounds/fireworks/twinkle_far1.ogg
 8b260108a73470c16cd244325242d4780cfb7d78  minecraft/sounds/fire/fire.ogg
 a0d1fbff7e938e92c10c1576339dda668f40e111  minecraft/sounds/fire/ignite.ogg
+74d8eba4e23664a6b6d710e55950567040bbc0c9  minecraft/sounds/item/armor/break_wolf.ogg
+0ed6b38ec4330481ce313aa56e26802ee16189d1  minecraft/sounds/item/armor/crack_wolf1.ogg
+5baca02dca7ecee14f6f162cdddb0111d63d7482  minecraft/sounds/item/armor/crack_wolf2.ogg
+7f0e196daaf94450ecf7cf36efe21f8e02828e5b  minecraft/sounds/item/armor/crack_wolf3.ogg
+6bf739fe311ec337600bed2ebfd3fac7dabaf4d3  minecraft/sounds/item/armor/crack_wolf4.ogg
+c07896007865ff025a1261a4fa519a60c4d7ae47  minecraft/sounds/item/armor/damage_wolf1.ogg
+b40a94336928d7c2ae611c36f275afc868b8cf00  minecraft/sounds/item/armor/damage_wolf2.ogg
+41b2955116651970a92f6f7aa45ca7d7ecd69ed5  minecraft/sounds/item/armor/damage_wolf3.ogg
+9b3571e3ee987c0aca83572bbd2a9f4ef42c86b3  minecraft/sounds/item/armor/damage_wolf4.ogg
 fd29d5ae9309aafaf40e5ec308cabd45c4a1e152  minecraft/sounds/item/armor/equip_chain1.ogg
 df30fe9e52ade521d4019ce118f95c1d39390d97  minecraft/sounds/item/armor/equip_chain2.ogg
 fb17cc91ec691e54590ba0fd1dbd69e6b567a530  minecraft/sounds/item/armor/equip_chain3.ogg
@@ -1742,6 +1751,10 @@ d1c98c672f1a4039accf2f396ebc78fd0403e1e9  minecraft/sounds/item/armor/equip_neth
 1ffc6f4549c2a00c29ebe5cd54d907ea9345df9e  minecraft/sounds/item/armor/equip_netherite4.ogg
 ba4916e608ac3a1edecf471b2a94585535c4e5ca  minecraft/sounds/item/armor/equip_wolf1.ogg
 aaa44c84e33fbf7f1f12cf365fe29963f92fc849  minecraft/sounds/item/armor/equip_wolf2.ogg
+f509239925846e79b4892d79bfb96c2f3c1e1e0e  minecraft/sounds/item/armor/repair_wolf1.ogg
+95b1be1afda74e2f278d0fa29489a4b7361c36b8  minecraft/sounds/item/armor/repair_wolf2.ogg
+5d9a0fe67d76e23dbb251c068d306ffd33edcc6d  minecraft/sounds/item/armor/repair_wolf3.ogg
+abc827da22f5a9288fd562ea8b9b60593aa14640  minecraft/sounds/item/armor/repair_wolf4.ogg
 e3f04a632629e09c2d016ec81cbb5e611946a008  minecraft/sounds/item/armor/unequip_wolf1.ogg
 e24a2cac0ddc2f27cd6e74181ad0719b2cda33c6  minecraft/sounds/item/armor/unequip_wolf2.ogg
 e91db11f0dbb7580b1e9e57483827f6724018049  minecraft/sounds/item/axe/scrape1.ogg
