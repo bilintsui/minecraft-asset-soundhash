@@ -1896,6 +1896,7 @@ a898059fce9481ea07fffd8dcab80b6087d684e7  minecraft/sounds/item/mace/smash_air2.
 df4382620752d04c27e3f33be08bacc2fc89078c  minecraft/sounds/item/mace/smash_ground2.ogg
 d761b39e2ae68753d68a3611c3d8efbf213e669a  minecraft/sounds/item/mace/smash_ground3.ogg
 42409a52c41c8dee98159236a4fd98813f29bef6  minecraft/sounds/item/mace/smash_ground4.ogg
+6ffcfff22efc6ba726ed80d7891b1c6e707bed60  minecraft/sounds/item/mace/smash_ground_heavy.ogg
 632c93324d6342c23fe229287ff86ad3170cd5fe  minecraft/sounds/item/plant/crop1.ogg
 0076a7bdf840e166559cd82e8f58e633c59382ea  minecraft/sounds/item/plant/crop2.ogg
 42a6d1b8c9ef9c21d4a7a2684ac946ae822d49ac  minecraft/sounds/item/plant/crop3.ogg
