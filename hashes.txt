@@ -17,6 +17,10 @@ bdbaad5ee2fede656f074621625a4c25287f28ff  minecraft/sounds/ambient/cave/cave15.o
 813118504a96fe9d349fe06f97cd629526eaedda  minecraft/sounds/ambient/cave/cave17.ogg
 1d37185f9790e93c2998cc4deea8968506a51d4a  minecraft/sounds/ambient/cave/cave18.ogg
 8751a4abf7cc497f4933723cb795492f5752dcf9  minecraft/sounds/ambient/cave/cave19.ogg
+56880bed78b91dddde4a84e10402f957cfc05144  minecraft/sounds/ambient/cave/cave20.ogg
+82e475bcaaf956cd4fdc029a757d4fcd9b25b9cb  minecraft/sounds/ambient/cave/cave21.ogg
+b60ab8b15b9763f8fd55dcaedab74d8eb2d45d53  minecraft/sounds/ambient/cave/cave22.ogg
+7c35e7cf6e530d662210be0ee8ef8cd44be3e654  minecraft/sounds/ambient/cave/cave23.ogg
 ec427e5a26e2170b435c85f4bae71bf5b9329b2c  minecraft/sounds/ambient/nether/basalt_deltas/active1.ogg
 02e04a1bba845ed4b3c0d006ebffc894c3588604  minecraft/sounds/ambient/nether/basalt_deltas/active2.ogg
 d37865c3895660038e4ceb30fb199b346cc1b1ee  minecraft/sounds/ambient/nether/basalt_deltas/active3.ogg
@@ -597,8 +601,7 @@ c63105ce3c8e64d4fbf95b51713903af4e05d0db  minecraft/sounds/block/copper_bulb/ste
 8ac3774edb98da4a3494f8b8dfb73f8e4e6d2536  minecraft/sounds/block/copper_bulb/step4.ogg
 a7d5bf52fdf2132de5347310a0a7d69cd9c7b016  minecraft/sounds/block/copper_bulb/step5.ogg
 01e7eb96475342f7418a19c2a274632bdea17d98  minecraft/sounds/block/copper_bulb/step6.ogg
-a64ee4fd95ca44a571480e0a586e43ad5d23b66e  minecraft/sounds/block/copper_bulb/turn_off.ogg
-0d32a999e36b54b3d1ff2e6c8f9e7d7cb0db4cc4  minecraft/sounds/block/copper_bulb/turn_on.ogg
+0d32a999e36b54b3d1ff2e6c8f9e7d7cb0db4cc4  minecraft/sounds/block/copper_bulb/toggle.ogg
 a8ea19293307367c50bc099f4996e8de1605f46f  minecraft/sounds/block/copper_door/toggle1.ogg
 bccb2d97e5255caa98b2991bb1de8cea3f92d1a1  minecraft/sounds/block/copper_door/toggle2.ogg
 149fe2032b2da16b1afe7f20f2dd417f00b19661  minecraft/sounds/block/copper_door/toggle3.ogg
