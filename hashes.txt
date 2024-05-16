@@ -3697,8 +3697,8 @@ de199b6c6f0f5ce2f653273d43f57979ee31c395  minecraft/sounds/step/wood2.ogg
 8989609f97122d2624e7db821e45e8da2352b025  minecraft/sounds/step/wood4.ogg
 3c7e76b2eabe4f1199b94d308f1c763ccceac76c  minecraft/sounds/step/wood5.ogg
 7f9bcd1e3a182da70b32881a7fe92dc17d531824  minecraft/sounds/step/wood6.ogg
-594be3eaea9a2b92095eeeb3b1e01e755dcb8ce2  minecraft/sounds/tile/piston/in.ogg
-cb017131516de9359cb81fb991f5b3694044f8db  minecraft/sounds/tile/piston/out.ogg
+2faade0f2de6cf7414e021c6231cf662095062fa  minecraft/sounds/tile/piston/in.ogg
+6912047bffb755df10814bb0796c75a376aeb408  minecraft/sounds/tile/piston/out.ogg
 9aa4cb9f9b429ef69a8e2ce7f2b9b96be3be540b  minecraft/sounds/ui/cartography_table/drawmap1.ogg
 ce47e698379fa88be08b5db0039cb316b6585d5e  minecraft/sounds/ui/cartography_table/drawmap2.ogg
 f0d0d2cc12bda03b297a06672de9519022403cc3  minecraft/sounds/ui/cartography_table/drawmap3.ogg
