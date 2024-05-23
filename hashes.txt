@@ -1390,6 +1390,7 @@ e96aa40aca3dd7abad81cb42b033bdee63a1a9bc  minecraft/sounds/block/vault/open_shut
 b142dae899b099aac120a8f00cc3edeeeae08134  minecraft/sounds/block/vault/place2.ogg
 465d7f1092969f8b647065ab9771c88c2cd7182d  minecraft/sounds/block/vault/place3.ogg
 69ed076bcc1fb564f9999b99da767ef3a4f1a9db  minecraft/sounds/block/vault/place4.ogg
+40b16b3beab7a29ce014d0d82d1747987d6847e4  minecraft/sounds/block/vault/reject_rewarded_player.ogg
 1913d4963d024157b5f853ff734ef22d1549e0e4  minecraft/sounds/block/vault/step1.ogg
 c269c86d2849d861855ca07f6e1f109e80c08fcd  minecraft/sounds/block/vault/step2.ogg
 0f1ff3699ff0b1b33d0ea5c85c17741c1c45f3fc  minecraft/sounds/block/vault/step3.ogg
@@ -3697,8 +3698,8 @@ de199b6c6f0f5ce2f653273d43f57979ee31c395  minecraft/sounds/step/wood2.ogg
 8989609f97122d2624e7db821e45e8da2352b025  minecraft/sounds/step/wood4.ogg
 3c7e76b2eabe4f1199b94d308f1c763ccceac76c  minecraft/sounds/step/wood5.ogg
 7f9bcd1e3a182da70b32881a7fe92dc17d531824  minecraft/sounds/step/wood6.ogg
-2faade0f2de6cf7414e021c6231cf662095062fa  minecraft/sounds/tile/piston/in.ogg
-6912047bffb755df10814bb0796c75a376aeb408  minecraft/sounds/tile/piston/out.ogg
+c83734c663e77e44a34e5779b3fb0bb0e50aad21  minecraft/sounds/tile/piston/in.ogg
+58fc87d6d9ea1b8967ad1ec6976864c802fe1519  minecraft/sounds/tile/piston/out.ogg
 9aa4cb9f9b429ef69a8e2ce7f2b9b96be3be540b  minecraft/sounds/ui/cartography_table/drawmap1.ogg
 ce47e698379fa88be08b5db0039cb316b6585d5e  minecraft/sounds/ui/cartography_table/drawmap2.ogg
 f0d0d2cc12bda03b297a06672de9519022403cc3  minecraft/sounds/ui/cartography_table/drawmap3.ogg
