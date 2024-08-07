@@ -1226,6 +1226,15 @@ e23c57397e1a7f079ac9afbcf3ee020f4ebc835c  minecraft/sounds/block/soul_soil/break
 099962527f625857b566bc0eb4e385ea252b23cd  minecraft/sounds/block/soul_soil/step3.ogg
 129780e9ac9587edca1ed59b1cefbb7369a7202f  minecraft/sounds/block/soul_soil/step4.ogg
 34051ededea1343bfea6fadd6556e642b6e5cce9  minecraft/sounds/block/soul_soil/step5.ogg
+bc53fd681563d0fb9b628cbc503cdc887b4516b6  minecraft/sounds/block/spawner/break1.ogg
+b704e41aa773e6cc6c2798aed510710bc7f1ae29  minecraft/sounds/block/spawner/break2.ogg
+bbc6b7f7a46d36b5de2e2055a513a6128b3f761c  minecraft/sounds/block/spawner/break3.ogg
+e123f1f349dbe33f92d1f6dc1f632b2a7c075e42  minecraft/sounds/block/spawner/break4.ogg
+ca4e7405ba5bfabbf393b2e5d00a0c1b11f6b456  minecraft/sounds/block/spawner/step1.ogg
+73698a2d0e2335e6b2985df499e08101ee676a98  minecraft/sounds/block/spawner/step2.ogg
+9e1630ebca398e4bf3113b8834e210dc33b39275  minecraft/sounds/block/spawner/step3.ogg
+eefa204eced915026862ddf7a7465863c04a3eab  minecraft/sounds/block/spawner/step4.ogg
+56ed141e6438cec8b57604c9e75bcf0cf87d409b  minecraft/sounds/block/spawner/step5.ogg
 3aa16dc0cb98b207552d722f759be8ef7712ee40  minecraft/sounds/block/sponge/absorb1.ogg
 431c1513bd7d75ee6eb20cad361551274d5d08a0  minecraft/sounds/block/sponge/absorb2.ogg
 0084f65e6832508990fb3dbf010daded53538c03  minecraft/sounds/block/sponge/absorb3.ogg
