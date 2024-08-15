@@ -1889,6 +1889,7 @@ aef0f1e4974e77bcb0b17fb0a71e6aedb56f6b2e  minecraft/sounds/item/bundle/drop_cont
 13067cc3d724d3e2d454de39d2b9a038ca87f985  minecraft/sounds/item/bundle/insert1.ogg
 f3df51414c25d7f0416dff5b5f628fee5ecbd22f  minecraft/sounds/item/bundle/insert2.ogg
 e5d5aaf75d0f8907647a65435f051e915297b723  minecraft/sounds/item/bundle/insert3.ogg
+285f453d2bf3c9f637ed0d3aa783889fc033787d  minecraft/sounds/item/bundle/insert_fail.ogg
 5d47ae5d6827caf228d77f407ab143d107896c65  minecraft/sounds/item/bundle/remove_one1.ogg
 f4b4482e93bfa7307605e6d5a8d051c12542bffe  minecraft/sounds/item/bundle/remove_one2.ogg
 dedf18f87e8363fce1854e07b01a19715ae8c155  minecraft/sounds/item/bundle/remove_one3.ogg
