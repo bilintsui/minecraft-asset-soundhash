@@ -3786,6 +3786,7 @@ c3ccd01c24a20096ac82f97e563f0192e3c58917  minecraft/sounds/step/wood6.ogg
 0fefe0a800702935cef8ff888cb2d711f0220628  minecraft/sounds/ui/cartography_table/drawmap1.ogg
 c806bde5aa9dd27c81832f82c7a27a208f5b0a04  minecraft/sounds/ui/cartography_table/drawmap2.ogg
 5935a6c4874744a39f96527e5eca40ac94fb0b74  minecraft/sounds/ui/cartography_table/drawmap3.ogg
+99a74f5734610b1ebe18a0e3589fc22a6e4dc307  minecraft/sounds/ui/hud/hud_bubble.ogg
 e0391aeb167a8be978b25b5f415a5d655c40153b  minecraft/sounds/ui/loom/select_pattern1.ogg
 a1a7b885db05e48a2f452de75d1cca4c8703f637  minecraft/sounds/ui/loom/select_pattern2.ogg
 dab140dbe86d882c6b370df754309447ab3f16a7  minecraft/sounds/ui/loom/select_pattern3.ogg
