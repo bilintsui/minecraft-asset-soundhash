@@ -1763,12 +1763,13 @@ e39709df8a61157842ef81742242eee76f7f435b  minecraft/sounds/entity/itemframe/remo
 c00c9f50501b1880e577822e6fe2cefa64904c8b  minecraft/sounds/entity/itemframe/rotate_item2.ogg
 202d7c719c841a48ed52cae567fdc6b35ec79ab8  minecraft/sounds/entity/itemframe/rotate_item3.ogg
 66a1ef29c6f8d833bbaaf6401b380cdc22ca4a01  minecraft/sounds/entity/itemframe/rotate_item4.ogg
-8e26f68ea998ee0f2c11aa0056a3b8081cd3de00  minecraft/sounds/entity/leashknot/break1.ogg
-d1175044e61b37e7194acb5348ba677cfc6636f1  minecraft/sounds/entity/leashknot/break2.ogg
-b3554ecb8fb40eafb383a2d2697b4825ec5d4011  minecraft/sounds/entity/leashknot/break3.ogg
-5a913c4565451734126b5955efe6b998fa8b27f9  minecraft/sounds/entity/leashknot/place1.ogg
-fe92c23b1a1aaaf4915b104528b3f1ed7b27a457  minecraft/sounds/entity/leashknot/place2.ogg
-3e477928d725e6f9cbe3240c425f9027d5372542  minecraft/sounds/entity/leashknot/place3.ogg
+098fce2f950a3780970359869e709131e88ccf84  minecraft/sounds/entity/leashknot/break.ogg
+d3471594990759e65b92d9d325c839cf1599598f  minecraft/sounds/entity/leashknot/leash1.ogg
+3cf0610c73617c572dc079fd3d42759fae11546f  minecraft/sounds/entity/leashknot/leash2.ogg
+1d0f4d6fcd3329385e035f810e66da970cd35ef3  minecraft/sounds/entity/leashknot/leash3.ogg
+8021a5503ec3e492aac6fc5da859091cf905d4cd  minecraft/sounds/entity/leashknot/unleash1.ogg
+3e1c63a265eb5d14c4b76e342455370cd4b428a3  minecraft/sounds/entity/leashknot/unleash2.ogg
+40791b42d490bbf7aba949dbccdc29cf2389922b  minecraft/sounds/entity/leashknot/unleash3.ogg
 b42538a11f5ec415ebbd996b6d8dec26d567718b  minecraft/sounds/entity/painting/break1.ogg
 b358e15873b87382205f737919d36ab262b5fd9c  minecraft/sounds/entity/painting/break2.ogg
 91547587db850771aba7fcd5eb830cf680f45ab2  minecraft/sounds/entity/painting/break3.ogg
@@ -2862,6 +2863,7 @@ e19c1c506b3912b5525b4dda588495376ddc6d96  minecraft/sounds/mob/hoglin/step5.ogg
 8b9616d697f22321f8d557df82392aa8e70e8a64  minecraft/sounds/mob/hoglin/step6.ogg
 657d93d7a22eb25458ab2534f93ffdc05b444a90  minecraft/sounds/mob/horse/angry1.ogg
 4bc6be271666131b075137efc1bfc8e943e41482  minecraft/sounds/mob/horse/armor.ogg
+a167579977833d52d3bf9900bcdebef0a02d550a  minecraft/sounds/mob/horse/armor_unequip.ogg
 1afdcef47e76d36184f0e699bd2d6fc6418996c3  minecraft/sounds/mob/horse/breathe1.ogg
 f9c910948d26f6e6fd92728aa259cde0f91ee421  minecraft/sounds/mob/horse/breathe2.ogg
 84f2c608df1dedf9ad9ae385f38d4cc003e980d6  minecraft/sounds/mob/horse/breathe3.ogg
@@ -2894,6 +2896,7 @@ bd25ed102ba7be60a04be404c1dc46b97bc0b55a  minecraft/sounds/mob/horse/hit3.ogg
 b2006f7883f10123e11ae1e81c63cd6b0d3d478e  minecraft/sounds/mob/horse/jump.ogg
 041446ca731499a1a15438d8df05fb04d942b2f7  minecraft/sounds/mob/horse/land.ogg
 246278736976219de64df5d7ef1ca905b5924efb  minecraft/sounds/mob/horse/leather.ogg
+d63066b84e728777aa5cddb085e04d7d963404f2  minecraft/sounds/mob/horse/saddle_unequip.ogg
 8bc2c8515d2022d580de6ca09e9117b28b338e31  minecraft/sounds/mob/horse/skeleton/death.ogg
 5a9de95708ab5797123933e1523e47c9f504ea87  minecraft/sounds/mob/horse/skeleton/hit1.ogg
 9c53c94ae67ad6ecff869d59ba162379fef65979  minecraft/sounds/mob/horse/skeleton/hit2.ogg
@@ -3000,6 +3003,7 @@ de12bd40faf0fa843aaf90da7e6ff3e2abb21d38  minecraft/sounds/mob/llama/spit2.ogg
 2cd4d29d08d094849c445d6df887e10e2bef6ead  minecraft/sounds/mob/llama/step4.ogg
 37a177326891665f15c6dd9aba72a0fb96c29cbf  minecraft/sounds/mob/llama/step5.ogg
 8c4623fe4b3d3a2000cb597ff07c430d4d0bfb3a  minecraft/sounds/mob/llama/swag.ogg
+23716152f0c5e204387e8238d0d5dd64b3a23911  minecraft/sounds/mob/llama/unequip.ogg
 c72dc968c642afa06e6e93d996185ada18f82154  minecraft/sounds/mob/magmacube/big1.ogg
 93062e5109692ee4b67d10ee603a0ea00da22fbc  minecraft/sounds/mob/magmacube/big2.ogg
 09cb0285a1114b63a899fb8163a18f38924d0069  minecraft/sounds/mob/magmacube/big3.ogg
