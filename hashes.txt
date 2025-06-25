@@ -3994,6 +3994,7 @@ d4313530b3100f824e2f0b2adeed165b0b816267  minecraft/sounds/records/cat.ogg
 1b62b6e66e47b1cf034ec3ac54bb7c6baff74780  minecraft/sounds/records/creator.ogg
 e1b4726cf75e5d6db25fc22204ceb83279f69498  minecraft/sounds/records/creator_music_box.ogg
 28912fd79cfe0e4e9465503809465ec400b0926b  minecraft/sounds/records/far.ogg
+3fad13f1e9f4fa6eedcab98ca691c6c112087b07  minecraft/sounds/records/lava_chicken.ogg
 62ef4f7c2da1d0ebf50c9462c9bfe7b27e865b0f  minecraft/sounds/records/mall.ogg
 1f86ddd8bc02fb96c27583c0b38ebd0dcdaf271a  minecraft/sounds/records/mellohi.ogg
 60f3cb6da0dedefb50015b883c98e32357134231  minecraft/sounds/records/otherside.ogg
