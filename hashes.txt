@@ -175,6 +175,14 @@ ca75ecfa65f05b616911574da104a3b58448eb2a  minecraft/sounds/ambient/underwater/en
 125de45cae330e1e1c370482bc62c0f8c916d259  minecraft/sounds/ambient/underwater/exit2.ogg
 aa952fbf823bf799bbd023de31442569ea8b6688  minecraft/sounds/ambient/underwater/exit3.ogg
 2619f8780101e7ed90979adae6e88e39a0222c29  minecraft/sounds/ambient/underwater/underwater_ambience.ogg
+1b4847389100f64149b531a358b95f8132a2fb2f  minecraft/sounds/ambient/weather/end_flash1.ogg
+1dc9d6f2474ffcca204c451fd3514cd704b40848  minecraft/sounds/ambient/weather/end_flash2.ogg
+9de1f0fc74d5e130fd03a88110c3d9dd6c217837  minecraft/sounds/ambient/weather/end_flash3.ogg
+86fc2655778bf3b6c87875549f1ab297915cfc2f  minecraft/sounds/ambient/weather/end_flash4.ogg
+4bf3a22cfa2efb28e177b74e2860751cf03634a2  minecraft/sounds/ambient/weather/end_flash5.ogg
+ecba9875e8e0447ff843b020db8eafb6015ebbd5  minecraft/sounds/ambient/weather/end_flash6.ogg
+d74fbefebd613dac0e8bb267470a3e678b59692b  minecraft/sounds/ambient/weather/end_flash7.ogg
+6d0c580f84cb9f51913acde5d4bf0a68a8d1a6e7  minecraft/sounds/ambient/weather/end_flash8.ogg
 59d8157fa79a96eb6557e4ff440aa7482edbbd52  minecraft/sounds/ambient/weather/rain1.ogg
 87fe1be2e8238dcf66ed0072cc8115702fe6b108  minecraft/sounds/ambient/weather/rain2.ogg
 c9d72edd2cd3a9f22ad5c6d900ea82dd4d64a0a5  minecraft/sounds/ambient/weather/rain3.ogg
