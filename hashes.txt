@@ -3212,6 +3212,7 @@ b1abbf3a7eebb5b31e2de443f1605f093527220a  minecraft/sounds/mob/nautilus/hurt1.og
 986a0f4dfce89008e043caa0b5c38761b885726c  minecraft/sounds/mob/nautilus/hurt2.ogg
 54f3878bcc4a6091489dd3a206e3458af14e4f7f  minecraft/sounds/mob/nautilus/hurt3.ogg
 e883215a4e967349b94213bb7e76d968c184b9d4  minecraft/sounds/mob/nautilus/hurt4.ogg
+a11aff04b1141ed73a7ab8cc499115a674def07e  minecraft/sounds/mob/nautilus/ride.ogg
 1cc42a4336edfabea25db242b3b7fd86f285a977  minecraft/sounds/mob/panda/aggressive/aggressive1.ogg
 9f8b52c288f0b0ad72c06bd48c1eb11b1737b7da  minecraft/sounds/mob/panda/aggressive/aggressive2.ogg
 67b10fedd43e774e36284992fc690d582d147018  minecraft/sounds/mob/panda/aggressive/aggressive3.ogg
