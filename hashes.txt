@@ -2600,7 +2600,7 @@ e2b81b1348cbf19b98a3df8963e6210e23668aba  minecraft/sounds/mob/chicken/picky/amb
 94fc7098d18f39aa0d80edc785e6fe379f5a4d1e  minecraft/sounds/mob/chicken/picky/ambient6.ogg
 796e8f73267e9cbab83f0b57c3ab8f374aead0eb  minecraft/sounds/mob/chicken/picky/ambient7.ogg
 c210d0ed70e8631645280c31a8e91cf14d46a387  minecraft/sounds/mob/chicken/picky/ambient8.ogg
-b3df7483f15fbed63cf41f4fed340b64dcf1f6b6  minecraft/sounds/mob/chicken/picky/death.ogg
+47d3fecc2d02ab6f2c524e3a08f02f08d580ccca  minecraft/sounds/mob/chicken/picky/death.ogg
 a71ca8141b6d63fccab1ec4e3762fb1d913631bd  minecraft/sounds/mob/chicken/picky/hurt1.ogg
 fe779eba8cdf5ecfef7b2d9aa4ea8484ae0c82ca  minecraft/sounds/mob/chicken/picky/hurt2.ogg
 9c02245717b4afa3fa9070292c0c9fb75a9f96c7  minecraft/sounds/mob/chicken/picky/hurt3.ogg
@@ -2690,8 +2690,8 @@ fd1ed21ba4b301da8af21291455fbd9d8d001b36  minecraft/sounds/mob/cow/moody/ambient
 c315ddb3db8463f1bc7b70b65901a926760a5ebd  minecraft/sounds/mob/cow/moody/ambient7.ogg
 a28cd8552ec242bc6b1206367367ebb7ccf05381  minecraft/sounds/mob/cow/moody/ambient8.ogg
 5e5333fc2d3a0a8b1fe92fac048dfba0d0aed351  minecraft/sounds/mob/cow/moody/ambient9.ogg
-8453eed6bbe2888f4fce89fee4f2f5965dacc166  minecraft/sounds/mob/cow/moody/death1.ogg
-ae0f599448b26735bef8f9d8a5c1133cbca31262  minecraft/sounds/mob/cow/moody/death2.ogg
+cd41cc5095534591e154bbb07a800eaa088123fe  minecraft/sounds/mob/cow/moody/death1.ogg
+9f1b6b6e30d46b5516282f324a28bd39dcae7bed  minecraft/sounds/mob/cow/moody/death2.ogg
 438f4ce8403e5a20e544ab7c1f54b1b861fb3d04  minecraft/sounds/mob/cow/moody/hit1.ogg
 bf77620aaec29fa8fccbb080eb4d1ae6697dc200  minecraft/sounds/mob/cow/moody/hit2.ogg
 f7a34ffafa0a006837e5b340c439c0f0b2098f5f  minecraft/sounds/mob/cow/moody/hit3.ogg
@@ -3589,11 +3589,10 @@ f059df90343e55981ce7e63652944758540764e2  minecraft/sounds/mob/pig/big/ambient1.
 ca355e7600ade9ecb83b668a06be89d09123d660  minecraft/sounds/mob/pig/big/ambient4.ogg
 1ce012964fccfda3057ad4be105df2f8414580c3  minecraft/sounds/mob/pig/big/ambient5.ogg
 77723485edbc5db2ba9e41ebac6fa28767009d17  minecraft/sounds/mob/pig/big/ambient6.ogg
-da8fcf83b6e161b8726a7acbe55624c1858a1ca7  minecraft/sounds/mob/pig/big/ambient7.ogg
-223e3dbc08bf92241e94b115b36e4f3d56d32343  minecraft/sounds/mob/pig/big/ambient8.ogg
+685e2b9bfe6003bbd31c6fdb071183a788ce963e  minecraft/sounds/mob/pig/big/ambient7.ogg
+d56b320609a1cc9f2bed93bc6ca4d6065ff93fe6  minecraft/sounds/mob/pig/big/ambient8.ogg
 e77674c3a463fdc0cd00fe7aea2cb006cb5317b6  minecraft/sounds/mob/pig/big/ambient9.ogg
-72c3a36c4c643b8a590684e78d2c3c0fec11532e  minecraft/sounds/mob/pig/big/ambient10.ogg
-c7d3e57580585b581f792068a3f5beb0803a8c31  minecraft/sounds/mob/pig/big/death.ogg
+79b7365f02e84def253935f22519bd8511e086cd  minecraft/sounds/mob/pig/big/death.ogg
 054dc612271880e22266e6987ec9e89b0bd7bc9a  minecraft/sounds/mob/pig/big/eat1.ogg
 41e282c48c6ca872df2ce27ed260f4baab339310  minecraft/sounds/mob/pig/big/eat2.ogg
 c766495267078fc454c86b36ef374f91c5cae06e  minecraft/sounds/mob/pig/big/hit1.ogg
@@ -3603,10 +3602,10 @@ e5542d7d177299d7e9dc17c817752d09d2f72d6b  minecraft/sounds/mob/pig/big/hit2.ogg
 73c55cb13c1bb3602b25caf7bb6fd3b5079693ab  minecraft/sounds/mob/pig/mini/ambient1.ogg
 8e6c2a396fe368c4e469edce260b90c7a8f34c30  minecraft/sounds/mob/pig/mini/ambient2.ogg
 8293ab5dcda61ba4c87c19ec4b2c510d6177d547  minecraft/sounds/mob/pig/mini/ambient3.ogg
-2743a6ddd871c10035ae6b5fae5d8bee8ec43490  minecraft/sounds/mob/pig/mini/ambient4.ogg
+d26cc7bfcfcd1ab0b7ed54ce3488116d0c383e0b  minecraft/sounds/mob/pig/mini/ambient4.ogg
 12f26da276db4b0cab9a41ad8548da42fd245d0d  minecraft/sounds/mob/pig/mini/ambient5.ogg
 14e0d68af0ccb4f52d6089009e0c49a8a68154f7  minecraft/sounds/mob/pig/mini/ambient6.ogg
-bafc8605447136496a2d8ba1cd5c1d8fba1d8a56  minecraft/sounds/mob/pig/mini/death.ogg
+abaef0b666fe7369688e2e62525708de51dda163  minecraft/sounds/mob/pig/mini/death.ogg
 28a9dc15afe2982a2129671efdf141f53837acbd  minecraft/sounds/mob/pig/mini/hurt1.ogg
 a65cbd698a367aa1507233f8428ac18a84f2a39d  minecraft/sounds/mob/pig/mini/hurt2.ogg
 bc32685b8bc780ea746d71585282c75691b2d85d  minecraft/sounds/mob/pig/mini/hurt3.ogg
