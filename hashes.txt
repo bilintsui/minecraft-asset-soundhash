@@ -2579,6 +2579,7 @@ f9878b1ef35b3f84a829ab74734e02448fc08e5f  minecraft/sounds/mob/chicken/baby_chic
 d75302a572694aca47274b9f9a64e6b06dccde01  minecraft/sounds/mob/chicken/baby_chicken/hurt2.ogg
 382c4343d69aff836167e8d14ebcb4dd15f25fba  minecraft/sounds/mob/chicken/baby_chicken/hurt3.ogg
 ee59fef4390d16c991ec80a41f1220f5859b8041  minecraft/sounds/mob/chicken/baby_chicken/hurt4.ogg
+4c78c65029d1943f9940f92b92c3cfa2b25b2608  minecraft/sounds/mob/chicken/baby_chicken/step.ogg
 4eff70fec48a26fe31c76b414cb732d47595e2c7  minecraft/sounds/mob/chicken/hurt1.ogg
 ebc5c57c45f850d9ba673493a8edff1e27317143  minecraft/sounds/mob/chicken/hurt2.ogg
 7a2066da814b01dede8e60f1b60915e0b8484055  minecraft/sounds/mob/chicken/plop.ogg
@@ -4080,7 +4081,7 @@ d635f508633610b066e05930578960a5556a8c1e  minecraft/sounds/mob/wolf/baby/ambient
 fca4452e8d168a4217f979f2ef2444d26d9ccc19  minecraft/sounds/mob/wolf/baby/angry1.ogg
 88c7adabbc2606fb522c59c253f69757641f2d29  minecraft/sounds/mob/wolf/baby/angry2.ogg
 52a2ec61ec242b2b3e0610a6377f9ae977260db6  minecraft/sounds/mob/wolf/baby/angry3.ogg
-1f5108b93471566b875759b02526223755d9a89a  minecraft/sounds/mob/wolf/baby/angry4.ogg
+e64e0c65ca60c94e42177da7e56b27429c1c64b3  minecraft/sounds/mob/wolf/baby/angry4.ogg
 eb3f9bfb75e3def5cf0bce10403ddfb67a402866  minecraft/sounds/mob/wolf/baby/death.ogg
 01e878517437166c8f2cb9295babed742e65d0d5  minecraft/sounds/mob/wolf/baby/hurt1.ogg
 5ed009012193aee4789cf86989c9d46cf98c3f75  minecraft/sounds/mob/wolf/baby/hurt2.ogg
