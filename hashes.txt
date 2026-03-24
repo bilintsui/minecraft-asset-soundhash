@@ -3575,6 +3575,8 @@ a82133b6b3c1279b635b43c5428efb40a4ed420e  minecraft/sounds/mob/pig/baby_pig/ambi
 a23eac66290907463b763af5a377b803719c68e1  minecraft/sounds/mob/pig/baby_pig/ambient5.ogg
 c483ceb8c694367637f64ce88a1f453c9fc9c9fd  minecraft/sounds/mob/pig/baby_pig/ambient6.ogg
 0d36ea892f502b58d12dee6d3aeb972a3c131b1a  minecraft/sounds/mob/pig/baby_pig/death.ogg
+d2f7ef82640406f93920c56c88728e3ff10f50b3  minecraft/sounds/mob/pig/baby_pig/eat1.ogg
+8cf450c03b43db6a09e666503b4057709031fa7d  minecraft/sounds/mob/pig/baby_pig/eat2.ogg
 3bb7c0eff4fe540479571a35ef48cb846ff88bc9  minecraft/sounds/mob/pig/baby_pig/hit1.ogg
 efe0d93ba5493d69ef3d858b1cc9c25f77a6625b  minecraft/sounds/mob/pig/baby_pig/hit2.ogg
 2bb94211db3be9bc0f36764eab830631e52cfc8e  minecraft/sounds/mob/pig/baby_pig/hit3.ogg
@@ -3599,6 +3601,8 @@ c766495267078fc454c86b36ef374f91c5cae06e  minecraft/sounds/mob/pig/big/hit1.ogg
 e5542d7d177299d7e9dc17c817752d09d2f72d6b  minecraft/sounds/mob/pig/big/hit2.ogg
 2f76fe194305f0c16cbb8c5dd1102cd0989b673f  minecraft/sounds/mob/pig/big/hit3.ogg
 49b6b073bc60bca804c3ad0bc28dc547361ebd3e  minecraft/sounds/mob/pig/death.ogg
+b4298c36777d1fba7e721879167863ba4fc9838d  minecraft/sounds/mob/pig/eat1.ogg
+298afefd6831250c8f941f1d1430c67c712e9520  minecraft/sounds/mob/pig/eat2.ogg
 73c55cb13c1bb3602b25caf7bb6fd3b5079693ab  minecraft/sounds/mob/pig/mini/ambient1.ogg
 8e6c2a396fe368c4e469edce260b90c7a8f34c30  minecraft/sounds/mob/pig/mini/ambient2.ogg
 8293ab5dcda61ba4c87c19ec4b2c510d6177d547  minecraft/sounds/mob/pig/mini/ambient3.ogg
@@ -3606,6 +3610,8 @@ d26cc7bfcfcd1ab0b7ed54ce3488116d0c383e0b  minecraft/sounds/mob/pig/mini/ambient4
 12f26da276db4b0cab9a41ad8548da42fd245d0d  minecraft/sounds/mob/pig/mini/ambient5.ogg
 14e0d68af0ccb4f52d6089009e0c49a8a68154f7  minecraft/sounds/mob/pig/mini/ambient6.ogg
 abaef0b666fe7369688e2e62525708de51dda163  minecraft/sounds/mob/pig/mini/death.ogg
+71bb1a60ddf49ea0c984b67bf55012c99e25ab4f  minecraft/sounds/mob/pig/mini/eat1.ogg
+deca7c3fef241a2bb19597828d9a462735d9e80d  minecraft/sounds/mob/pig/mini/eat2.ogg
 28a9dc15afe2982a2129671efdf141f53837acbd  minecraft/sounds/mob/pig/mini/hurt1.ogg
 a65cbd698a367aa1507233f8428ac18a84f2a39d  minecraft/sounds/mob/pig/mini/hurt2.ogg
 bc32685b8bc780ea746d71585282c75691b2d85d  minecraft/sounds/mob/pig/mini/hurt3.ogg
@@ -4413,10 +4419,10 @@ db3b85662c0000733a04d5087d7d835771a70cc5  minecraft/sounds/note/hat.ogg
 f0c022a51c4e496fe8b57ee6a769e01e5b321e4d  minecraft/sounds/note/iron_xylophone.ogg
 774ae41e86f0b62a5cc961d1bc2e3d0aef9d229c  minecraft/sounds/note/pling.ogg
 2db5799d39524c6f99e439d310e4a0817c61660e  minecraft/sounds/note/snare.ogg
-0e4b1b6ad857f9300e734eb849490f2521bd70f8  minecraft/sounds/note/trumpet.ogg
-e8667887112d43d434ab3083cbcf6dce717076fe  minecraft/sounds/note/trumpet_exposed.ogg
-7faacc50d5ccc109fcb99c6ac1d0bcd6f61c5124  minecraft/sounds/note/trumpet_oxidized.ogg
-2517f635eb18ce1b685fd77c4aefbdeea989c74d  minecraft/sounds/note/trumpet_weathered.ogg
+9204fdd19591bad471c9869d45336901e6d78e07  minecraft/sounds/note/trumpet.ogg
+a08e6b8131ff0a8cc5566f3c012fa103fef325a3  minecraft/sounds/note/trumpet_exposed.ogg
+3bbd246c8aeaabdbd50fa7d6ffbe08ec5f86fefb  minecraft/sounds/note/trumpet_oxidized.ogg
+aab0c627f1470583c2fe4652d0bbd2dfb38ee1c6  minecraft/sounds/note/trumpet_weathered.ogg
 b97cfa83f2be06885ce9419522ad379bf96b90c7  minecraft/sounds/note/xylobone.ogg
 5cab2f09f1fecc35ea879da5a30678b9c7daca23  minecraft/sounds/portal/portal.ogg
 9022fcfb001438a87c65b268202a6abf5957b64a  minecraft/sounds/portal/travel.ogg
