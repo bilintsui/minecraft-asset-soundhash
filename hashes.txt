@@ -2173,6 +2173,9 @@ de956afb80a70059b31a79ddb0775dff5d65ed07  minecraft/sounds/item/brush/brushing_s
 f75e57175b69ab1e6c408ab3f32160c8416a8675  minecraft/sounds/item/bucket/empty1.ogg
 270c29f3c5cbc795c36bd3e41fb9c367ab91ae0f  minecraft/sounds/item/bucket/empty2.ogg
 ef7610b0effe7d9ae641938cc7cc317158a59b91  minecraft/sounds/item/bucket/empty3.ogg
+cf505363e5ae8beb10322facc0520f3479e485d6  minecraft/sounds/item/bucket/emptysulfurcube1.ogg
+194c93629afcbf79bf6a978abea8b59f8105736d  minecraft/sounds/item/bucket/emptysulfurcube2.ogg
+78f7911d0729f88737566308b0c025b343d50ff9  minecraft/sounds/item/bucket/emptysulfurcube3.ogg
 02acc7700dc592bbdff3dcddab03f5c43d9f756e  minecraft/sounds/item/bucket/empty_fish1.ogg
 43c6b3ad8c721cc0cc671f07d44d43ec7479efeb  minecraft/sounds/item/bucket/empty_fish2.ogg
 cf27e6a0ce68e026e5da6970ad0b56279da2a555  minecraft/sounds/item/bucket/empty_fish3.ogg
@@ -2184,6 +2187,9 @@ cd1d156edae157df11b57f84da2e6a570c7bbdf3  minecraft/sounds/item/bucket/empty_pow
 a8436a6aa1015791109dfce0ebc7d47399338c7f  minecraft/sounds/item/bucket/fill1.ogg
 21e1cc7289a188e7424f451b787257063f20a61e  minecraft/sounds/item/bucket/fill2.ogg
 7a34a4136adc49b5a656010daad587b73de65786  minecraft/sounds/item/bucket/fill3.ogg
+cad150cd176d54868084f696e6be2186fbaf00e6  minecraft/sounds/item/bucket/fillsulfurcube1.ogg
+409ecec0301cfe8593bd579cd86547909c5c3cbc  minecraft/sounds/item/bucket/fillsulfurcube2.ogg
+12c0598292913db294803901abcf01253f8bcbf7  minecraft/sounds/item/bucket/fillsulfurcube3.ogg
 b8417bcd4ff39f94b5672a29d48281ece77c7abe  minecraft/sounds/item/bucket/fill_axolotl1.ogg
 847a88d743631e657191915ca9a24a6cad4a8d4f  minecraft/sounds/item/bucket/fill_axolotl2.ogg
 01bb74e92fabcd2a63d15ecf221c7be801543667  minecraft/sounds/item/bucket/fill_axolotl3.ogg
@@ -3993,7 +3999,6 @@ ed038e3fa6170bb1bef598e1e7c38bebf6fa591f  minecraft/sounds/mob/strider/step_lava
 b6e8682f1b6276c1e81c5af3516613a874c5c532  minecraft/sounds/mob/strider/step_lava6.ogg
 2489bce72f76c93ab050a7e479bffc40a4db6e8b  minecraft/sounds/mob/sulfur_cube/absorb1.ogg
 cb5760fac5c65e7defb496bbe4ee85eac4d0ce67  minecraft/sounds/mob/sulfur_cube/absorb2.ogg
-ac4ae86254435266a3f9143fd5ce1311ae84ad35  minecraft/sounds/mob/sulfur_cube/absorb3.ogg
 5fb37335481341315823f3cf460360945a586bee  minecraft/sounds/mob/sulfur_cube/ball/bounce1.ogg
 2fed7ce0b0fe99eaf85d97b2a891788e5f98ed94  minecraft/sounds/mob/sulfur_cube/ball/bounce2.ogg
 26ca0552f089849051b8baa424c90cf405c8ded9  minecraft/sounds/mob/sulfur_cube/ball/bounce3.ogg
@@ -4006,13 +4011,6 @@ a6df01bef64826baa7f1a0e822d86c921bfef297  minecraft/sounds/mob/sulfur_cube/ball/
 1c9ccf7f9494a78b778dafd038a6d321d9947642  minecraft/sounds/mob/sulfur_cube/ball/hit2.ogg
 c31ff4ae18efc4c85f7a489e2798bde8dcabb81c  minecraft/sounds/mob/sulfur_cube/ball/hit3.ogg
 06faf204237601a10604609fc3378f9a70561e79  minecraft/sounds/mob/sulfur_cube/ball/hit4.ogg
-d181a51db73f23161a61ba684fb7040078bf788d  minecraft/sounds/mob/sulfur_cube/ball/hit5.ogg
-3255d819bba15d270b3d8e101c61fde4ae691506  minecraft/sounds/mob/sulfur_cube/ball/hit6.ogg
-fa0aff90aec2cb2d4d4169d413b5d137e5423591  minecraft/sounds/mob/sulfur_cube/ball/hit7.ogg
-26b1d393409478e77d45f286f57162ed8e0a38be  minecraft/sounds/mob/sulfur_cube/ball/kick1.ogg
-5f3f25f0c4826db78851d31c5d3cb675f75fd461  minecraft/sounds/mob/sulfur_cube/ball/kick2.ogg
-ac709b0da97a66f17895efbcffd26daf80d5955c  minecraft/sounds/mob/sulfur_cube/ball/kick3.ogg
-0c043def3067c93fc327c9e6e328ecad44554124  minecraft/sounds/mob/sulfur_cube/ball/kick4.ogg
 0f503737c2fe522e240bc9a64d0f031dbd1e8531  minecraft/sounds/mob/sulfur_cube/ball/push1.ogg
 76361d68d7a9a0b284893781e0e73e6ec592d3c1  minecraft/sounds/mob/sulfur_cube/ball/push2.ogg
 8fcdc340a56ff6d63b9d4bc3b8eb97799fd4c065  minecraft/sounds/mob/sulfur_cube/ball/push3.ogg
