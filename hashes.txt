@@ -4043,10 +4043,10 @@ cb5760fac5c65e7defb496bbe4ee85eac4d0ce67  minecraft/sounds/mob/sulfur_cube/absor
 d89d79d2fd2c26126f9e4af0a3fc28867f7dcc9b  minecraft/sounds/mob/sulfur_cube/ball/bounce6.ogg
 be50242cc486ccea4a0223f81ef138eaf09fddc1  minecraft/sounds/mob/sulfur_cube/ball/bounce7.ogg
 880eb7e2066910b8977a26de78355d44ed33187a  minecraft/sounds/mob/sulfur_cube/ball/bounce8.ogg
-10816080603d962de6b7886ff18515f9b70b34a4  minecraft/sounds/mob/sulfur_cube/ball/bouncy_hit1.ogg
-5261d4d75a1daf0bdf1c8241980c2634874567e3  minecraft/sounds/mob/sulfur_cube/ball/bouncy_hit2.ogg
-7e9ae9fe5134a13bdcb133e8d7eb8896b77079df  minecraft/sounds/mob/sulfur_cube/ball/bouncy_hit3.ogg
-d454805476e82c7a5cd11a770ee1823c79f3ff05  minecraft/sounds/mob/sulfur_cube/ball/bouncy_hit4.ogg
+0a0478aa15e89274831ff7b8639151a3e0a4b19b  minecraft/sounds/mob/sulfur_cube/ball/bouncy_hit1.ogg
+17caf22caf72c82fb4297c1eeaf9b91b2bcfc0d1  minecraft/sounds/mob/sulfur_cube/ball/bouncy_hit2.ogg
+e1f69140387c6c903adf5a185335e51e947f00cc  minecraft/sounds/mob/sulfur_cube/ball/bouncy_hit3.ogg
+da2a0a454e9380608b99c3ccfab8836a6532dd8a  minecraft/sounds/mob/sulfur_cube/ball/bouncy_hit4.ogg
 b42bd5ed8005876129fb41bab72f62ebc04c3d05  minecraft/sounds/mob/sulfur_cube/ball/bouncy_push1.ogg
 d89a6b298cc26f7d72d03676c6c388f62b6762eb  minecraft/sounds/mob/sulfur_cube/ball/bouncy_push2.ogg
 a8279d34a75d67c26a448f1e326db94624a1269b  minecraft/sounds/mob/sulfur_cube/ball/bouncy_push3.ogg
