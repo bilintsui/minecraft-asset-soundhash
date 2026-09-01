@@ -1369,7 +1369,7 @@ f4d76fc18ff37d4caf3ee7d56628d11fbdcfb58b  minecraft/sounds/block/powder_snow/ste
 1dbb1a73a2b3aca9eb994172b87ab7c5ed39fc0a  minecraft/sounds/block/red_shrub/place1.ogg
 e9c8da590e919f783d6e8740e2e759e234685889  minecraft/sounds/block/red_shrub/place2.ogg
 23f6cfbe52b59bffaebf853028f176519ad716e1  minecraft/sounds/block/red_shrub/place3.ogg
-45129a5616aace7930e01c6c367997ecc44d79fa  minecraft/sounds/block/red_shrub/place4.ogg
+193420286149ed1f1bbe93eecf229cb6208349f9  minecraft/sounds/block/red_shrub/place4.ogg
 71a03ccde88a5c440ce60afef906f19c4dfbc2ee  minecraft/sounds/block/resin/resin_break1.ogg
 1e59394b78c6dccb6f428c5b70dbf67802afc866  minecraft/sounds/block/resin/resin_break2.ogg
 f169c2bd7d40b3075e8e27c379904c3629f49452  minecraft/sounds/block/resin/resin_break3.ogg
